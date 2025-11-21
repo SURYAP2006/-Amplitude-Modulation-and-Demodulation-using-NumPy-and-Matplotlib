@@ -44,6 +44,10 @@ plt.show()
 ### Output:
 <img width="845" height="589" alt="Screenshot 2025-11-16 230655" src="https://github.com/user-attachments/assets/b7f003f1-b79c-4fff-b3a7-c17244875649" />
 
+### TABLE:
+
+<img width="745" height="716" alt="Screenshot 2025-11-21 194311" src="https://github.com/user-attachments/assets/9bd10603-dbb2-4f88-8091-82d4e92b1e05" />
+
 
 ### Result:
 The message signal, carrier signal, and amplitude modulated (AM) signal will be displayed in separate plots. 
